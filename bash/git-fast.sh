@@ -5,3 +5,5 @@ function gitfast() {
     git commit -m "$*"
     git push
 }
+
+
