@@ -4,7 +4,7 @@ echo 'path to file with ips: '
 
 if ! [ -e $1 ]
 then
-    echo "No ip file provoded"
+    echo "No ip file provided"
     exit 1
 fi
 
